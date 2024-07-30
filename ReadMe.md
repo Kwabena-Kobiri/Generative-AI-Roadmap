@@ -7,7 +7,7 @@ This repository provides a step-by-step guide to understanding and implementing 
 1. Step 1: [Prompt Engineering](#1-prompt-engineering)
 2. Step 2: [Basic Q&A with LLM APIs](#2-basic-qa-with-llm-apis)
 3. Step 3: [Retrieval Augmented Generation (RAG)](#3-retrieval-augmented-generation-rag)
-4. Step 4: [Agentic Systems](#4-agentic-systems)
+4. Step 4: [Agents and Agentic Systems](#4-agentic-systems)
 5. Step 5: [Fine-tuning LLMs](#5-fine-tuning-llms)
 6. Step 6: [Building Your Own LLM](#6-building-your-own-llm)
 
