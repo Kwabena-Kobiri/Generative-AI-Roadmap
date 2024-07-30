@@ -51,3 +51,9 @@ Frameworks like LangChain and AutoGPT provide tools and abstractions to help bui
 - Paper: [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
 Mastering AI Agents and Agentic Systems will allow you to create sophisticated AI applications that can operate autonomously, solve complex problems, and interact more naturally with humans and their environment.
+
+### Getting Started 
+Check the "/Notebooks" and "/Deployments" folders in this directory for sample notebooks and applications that you can use and build on.
+
+
+### Relevant Repositories
