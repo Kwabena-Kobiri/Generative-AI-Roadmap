@@ -24,3 +24,6 @@ These tools provide abstractions that make it easier to switch between different
 ### Getting Started
 
 Check the "/Notebooks" and "/Deployments" folders in this directory for sample notebooks and applications that you can use and build on.
+
+
+### Relevant GitHub Repositories
