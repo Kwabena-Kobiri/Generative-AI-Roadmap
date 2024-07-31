@@ -43,6 +43,7 @@ We welcome the following types of contributions for each step of the roadmap:
 When contributing, please adhere to the following structure:
 
 /Step_X/Notebooks/your_folder_with_notebook_and_any_really_relevant_files
+
 /Step_X/Deployments/your_generative_ai_deployment_folder
 
 Replace X with the step number you're contributing to.
